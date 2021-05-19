@@ -2,7 +2,7 @@
   "name": "intro",
   "version": "0.0.0",
   "engines": {
-    "node": "6.11.1"
+    "node": "14.17.0"
   },
   "scripts": {
     "ng": "ng",
